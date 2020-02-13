@@ -23,12 +23,7 @@ def EN():
     else:
         if len(lst) == 11:
             def KNOW_I(lst1):
-                #lst = []
-                #n = int(input("Enter number of elements : "))
-                #for i in range(0, n):
-                 #   ele = int(input())
-                  #  lst.append(ele)  # adding the element
-                #print("Phone number : ",lst)
+               
                 if lst[0] == 0:
                     if lst[1] == 1:
                         if lst[2] == 1:
